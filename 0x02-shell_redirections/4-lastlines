@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/host | tail
+less /etc/passwd | tail
