@@ -1,2 +1,2 @@
-BB#!/bin/bash
+#!/bin/bash
 less /etc/host | tail
